@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="280" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif"  />
-</div>
 
-###
 
 <h1 align="center">Hey there 👋    I am Kalana Mihiranga</h1>
 <!-- <p align="center">
